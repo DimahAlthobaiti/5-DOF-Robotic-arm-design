@@ -1,8 +1,5 @@
 # 5-DOF-Robotic-arm-design
 
-
-# 5-DOF Robotic Arm Design – Final Version
-
 This repository contains the final design of a **5 Degrees of Freedom (DOF)** robotic arm created using TinkerCAD. The model is inspired by real industrial manipulators and follows standard kinematic principles.
 
 ## Overview
